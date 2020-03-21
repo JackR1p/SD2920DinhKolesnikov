@@ -1,3 +1,8 @@
+Ausgangslage:
+
+Die Ausgangslage des Projektes war es ein Gestaltungskonzept für die Time-Ansicht des Cranach Digital Archive zu entwickeln. Dabei sollten die vom Projektteam des Medieninformatik Masters erarbeiteten Informationen umgesetzt werden. Das Projekt soll als Ergänzung des bestehenden Archivs fungieren und die Werke in Form eines Zeitstrahls präsentiert und zuordnet.
+
+
 Kommunikationsziele: 
 
 
