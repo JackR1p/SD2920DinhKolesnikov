@@ -1,0 +1,15 @@
+Kommunikationsziele: 
+
+
+
+Die Kommunikationsziele des Projektes sind, dass das Cranach Digital Archive professionell, klar, möglichst einfach, reduziert, akzentuirt und zeitlos ist. 
+
+
+
+
+
+
+
+Screen 1: Dieser Screen ist der Startbildschirm, auf dem man landen würde wenn man den Cranch Digital Archieve aufruft. Durch die Zentrale Lage des Titels und dem Bild Cranachs wird der Person sofort klar, auf welcher Seite Sie sich befinden. Das schlichte Design und neutrale Hintergrundfarbe soll reduziert mögliche Ablenkungen und akzentuiert den Zeitstrahl und die Kunstwerke. Um die Navigation der Website einfach zu halten, entschieden wir uns keinen Zeitstrahl am unteren Rand der Seite zu haben, mit welchem man sich durch alle Bilder durchscrollen müsste, sondern einen Runden, welcher sich um das Porträt Cranachs dehnt. Mit diesem Zeitstrahl kann man möglichst einfach zwischen den Jahren suchen. Die Zacken des Zeitstrahles repräsentieren einzelne Jahre, wobei jeder 5. und 10. Strich eine längere Form haben, um diese einfacher zu unterscheiden und navigieren zu können. 
+
+Die Menüleiste wurde soweit wie möglich nach oben verschoben, um dem Zeitstrahl und den Bildern möglichst viel Platz zu lassen, auf denen der Fokus bleiben soll. Für die Icons benutzen wir universell bekannte und verstandene Icons. So repräseniert das Hamburger-Menü-Icon ein zugeklapptes Menü, das Lupen-Icon für die Suchleiste, der Filter-Icon für eine Filtersuche und ein Fragezeichen-Icon für eine Navigationshilfe. Der "DE/EN"-Icon macht dem Besucher klar, welche Sprachen auf der Seite unterstützt werden und wo Sie diese Wechseln können. 
